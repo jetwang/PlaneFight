@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3a0bae4-9f26-4d3d-a883-111d093effa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/New Atlas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bomb-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bomb-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/boss_HP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn_finish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet_3_stock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet_temp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bullet_temp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/button_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/button_p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/description.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy0_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy0_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy0_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy0_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy1_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_down5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_down6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemy2_n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_loading1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_loading2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_loading3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_loading4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_pause_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_pause_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_resume_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game_resume_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero_blowup_n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero_blowup_n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero_blowup_n3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero_blowup_n4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/max_score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/number_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/plane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/prop_type_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/prop_type_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/quit_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/quit_sel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/restart_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/restart_sel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resume_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resume_sel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/score_hp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/PlaneWarsBackgroundMusic.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/hero_fire.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventCapture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameObject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectContext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_init_.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zzLSmzSkyNVAJtDevPtMaWtMPO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LocalDocs\code\PlaneFight\src" />
+      <recent name="D:\LocalDocs\code\飞机大战\FeiJiDaZhan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main (2)">
+    <configuration name="FeiJiDaZhan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FeiJiDaZhan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FeiJiDaZhan/FeiJiDaZhan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FeiJiDaZhan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FeiJiDaZhan/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FeiJiDaZhan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\LocalDocs\code\飞机大战\FeiJiDaZhan\Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main (2)" />
+        <item itemvalue="Python.FeiJiDaZhan" />
+        <item itemvalue="Python.Main (1)" />
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3a0bae4-9f26-4d3d-a883-111d093effa3" name="Changes" comment="" />
+      <created>1635145973191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635145973191</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
